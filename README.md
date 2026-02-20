@@ -1,4 +1,6 @@
-# TP5 - Identification d'adresses MAC et IP
+# TP - Identification d'adresses MAC et IP
+Elif JAFFRES
+
 
 ## 📝 Objectif du TP
 Ce TP a pour but d'analyser le déplacement des paquets de données (PDU) à l'intérieur d'un réseau local et à travers un routeur. L'objectif principal est de comprendre le comportement des adresses MAC (Couche 2) par rapport aux adresses IP (Couche 3) au fur et à mesure que les paquets transitent sur les différents équipements réseau.
@@ -70,3 +72,4 @@ La topologie de ce laboratoire étudié sous Cisco Packet Tracer inclut :
 
 **Pourquoi différents réseaux IP doivent être affectés à différents ports d'un routeur ?**
 > Un routeur a pour rôle principal d'interconnecter des sous-réseaux logiquement différents. S'il avait deux ports dans le même réseau, il ne saurait pas de quel côté router les paquets de ce réseau. Chaque interface de routeur est donc la passerelle par défaut d'un réseau IP unique.
+
